@@ -1,0 +1,9 @@
+__pycache__
+
+**/data/
+./data_137/
+**/data_137/
+./DataFTU/
+**/DataFTU/
+
+.env
