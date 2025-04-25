@@ -1,0 +1,10 @@
+Các ngành chất lượng cao ((CTTT)), các ngành chương trình chất lượng cao (CLC) có 9 ngành sau:
+chương trình CLC Kinh tế đối ngoại xét tuyển cả 2 cơ sở Hà Nội và TP.HCM
+chương trình CLC Quản trị kinh doanh quốc tế xét tuyển cả 2 cơ sở Hà Nội và TP.HCM
+chương trình CLC Ngân hàng và tài chính quốc tế xét tuyển cả 2 cơ sở Hà Nội và TP.HCM
+chương trình CLC Kinh tế quốc tế chỉ xét tuyển tại cơ sở Hà Nội
+chương trình CLC Kinh doanh quốc tế chỉ xét tuyển tại cơ sở TP.HCM
+chương trình CLC Ngôn ngữ Pháp chỉ xét tuyển tại cơ sở Hà Nội
+chương trình CLC Ngôn ngữ Trung chỉ xét tuyển tại cơ sở Hà Nội
+chương trình CLC Ngôn ngữ Nhật chỉ xét tuyển tại cơ sở Hà Nội
+chương trình CLC Ngôn ngữ Anh chỉ xét tuyển tại cơ sở Hà Nội

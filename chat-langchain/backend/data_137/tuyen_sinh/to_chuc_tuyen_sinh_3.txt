@@ -1,0 +1,53 @@
+Tổ chức tuyển sinh đối vơi phương thức xét tuyển có sử dụng kết quả thi tốt nghiệp THPT năm 2025
+
+Nhóm đối tượng tuyển sinh xét tuyển kết hợp giữa kết quả thi tốt nghiệp THPT năm 2025  và chứng chỉ ngoại ngữ quốc tế
+
+1. Thời gian đăng ký: từ ngày 10/06/2025 đến ngày 20/06/2025
+
+2. Các chương trình áp dụng:
+Các chương trình CTTT,CLC và ĐHNN&PTQT (theo bảng chỉ tiêu của đề án).
+
+3. Nguyên tắc xét tuyển:
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau:
+- Đối với các chương trình CTTT,CLC và ĐHNN&amp;PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại):
+Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên  xét tuyển(nếu có)
+Trong đó:
+    - M1 là điểm thi tốt nghiệp THPT năm 2025 môn Toán
+    - M2 là điểm thi tốt nghiệp THPT năm 2025 một trong các môn: môn Vật lý hoặc Hóa học hoặc Ngữ văn
+    - M3: là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+Điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1 là điểm thi tốt nghiệp THPT năm 2025 môn Toán
+- M2 là điểm thi tốt nghiệp THPT năm 2025 một trong các môn: môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3: là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+
+- Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2):
+Điểm xét tuyển = (M1+M2+M3*2) + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1,M2: là điểm thi tốt nghiệp THPT năm 2025  của  môn Toán và môn Văn
+- M3: là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+
+4. Cách tính điểm ưu tiên
+* Điểm ưu tiên đối tượng chính sách, điểm ưu tiên khu vực được xác định theo Quy chế tuyển sinh đại học của Trường, cụ thể:
+Đối với các chương trình không có môn nhân đôi hệ số : Điểm ưu tiên đối tượng chính sách và khu vực (nếu có) đối với thí sinh đạt tổng điểm từ 22,5 (thang 30) trở lên được xác định theo công thức:
+Điểm ưu tiên đối tượng và khu vực= {[30 - (M1+M2+M3)]/7,5} × (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+Đối với các chương trình có môn nhân đôi hệ số: Điểm ưu tiên đối tượng chính sách và khu vực (nếu có) đối với thí sinh đạt tổng điểm từ 30 (thang 40) trở lên được xác định theo công thức:
+Điểm ưu tiên đối tượng và khu vực = {[40 - (tổng điểm xét tuyển thang 40)]/10} × (Điểm ưu tiên đối tượng chính sách + điểm ưu tiên khu vực)
+
+* Điểm ưu tiên xét tuyển đối với thí sinh được giải quốc gia được xác định:
+Thí sinh tốt nghiệp THPT năm 2025 đạt giải (Nhất, Nhì, Ba, Khuyến khích) trong kỳ thi Học sinh giỏi quốc gia các môn thi thuộc tổ hợp đăng ký xét tuyển của Nhà trường hoặc trong Cuộc thi Khoa học kỹ thuật cấp quốc gia mà nội dung đề tài được Hội đồng tuyển sinh đánh giá là phù hợp với môn thuộc tổ hợp đăng ký xét tuyển của trường (Toán, Tin, Lý, Hóa, Văn, Tiếng Anh, Tiếng Pháp, Tiếng Nga, Tiếng Trung và Tiếng Nhật), được cộng điểm ưu tiên vào tổ hợp môn xét tuyển của trường có môn tương ứng với giải, như sau:
++ Thí sinh đạt giải Nhất: cộng 4 (bốn) điểm
++ Thí sinh đạt giải Nhì: cộng 3 (ba) điểm
++ Thí sinh đạt giải Ba: cộng 2 (hai) điểm
++ Thí sinh đạt giải Khuyến khích: cộng 1 (một) điểm
+
+Lưu ý: Thí sinh đạt nhiều giải ở nhiều môn/lĩnh vực hoặc cùng một môn/lĩnh vực ở các năm khác nhau và chỉ được hưởng một tiêu chuẩn cộng điểm cao nhất.
+Thí sinh đã dùng giải Học sinh giỏi quốc gia môn Ngoại ngữ để quy đổi điểm thì không được cộng thêm điểm ưu tiên cho giải này.
+
+5. Cách thức đăng ký và đánh giá hồ sơ
+- Thí sinh sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất) trên hệ thống xét tuyển chung của Bộ Giáo dục và Đào tạo
+- Không giới hạn số lượng nguyện vọng
+- Thí sinh đủ điều kiện tham gia xét tuyển ở nhiều phương thức tuyển sinh. Khi đăng ký vào một chương trình sẽ được xét đồng thời các phương thức xét tuyển cùng một thời điểm đảm bảo cơ hội trúng tuyển cao nhất.
+- Trường hợp các thí sinh bằng điểm xét tuyển ở cuối danh sách, Trường sử dụng tiêu chí phụ đánh giá hồ sơ theo điểm thi tốt nghiệp THPT năm 2025 môn Toán và thứ tự ưu tiên nguyện vọng.

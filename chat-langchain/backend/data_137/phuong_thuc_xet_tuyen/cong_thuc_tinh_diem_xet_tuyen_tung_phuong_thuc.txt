@@ -1,0 +1,113 @@
+Công thức tính điểm xét tuyển từng phương thức:
+
+1) Phương thức xét tuyển có sử dụng kết quả học tập THPT khi đáp ứng các điều kiện đảm bảo chất lượng của nhà trường
+1.1) Nhóm đối tượng tuyển sinh xét tuyển bằng kết quả học tập THPT  ( xét tuyển kết quả học tập THPT của ba môn trong tổ hợp môn của Nhà trường)
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau:
+- Đối với các chương trình tiêu chuẩn và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+Trong đó:
+- M1, M2, M3: là điểm trung bình chung kết quả học tập THPT từng môn (6 học kỳ) thuộc tổ hợp môn xét tuyển của Trường.
+	+Riêng đối với nhóm đối tượng tuyển sinh: thí sinh là học sinh tham gia/đạt giải HSG Quốc gia/KHKT quốc gia hoặc thí sinh là học sinh không chuyên đạt giải  HSG Tỉnh/Thành phố: trong tổ hợp 03 môn xét tuyển phải có môn thí sinh tham gia thi/đạt giải
+	+ Thí sinh chỉ sử dụng môn ngoại ngữ chính (môn bắt buộc hoặc môn chuyên) để xét tuyển. Môn ngoại ngữ thứ hai (môn tự chọn hoặc không chuyên) không được dùng để xét tuyển theo các tổ hợp của Trường.
+- Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Công thức tính điểm xét tuyển = (M1*2+M2+M3) + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+Trong đó:
+- M1 là điểm trung bình chung kết quả học tập THPT môn Toán (6 học kỳ)
+- M2, M3: là điểm trung bình chung kết quả học tập THPT (6 học kỳ) của hai môn trong nhóm: Hóa học + Vật Lý hoặc Hóa học +Tiếng Anh hoặc Vật lý+Tiếng Anh hoặc Văn+ Tiếng Anh
+	+ Riêng đối với nhóm đối tượng tuyển sinh: thí sinh là học sinh tham gia/đạt giải HSG Quốc gia/KHKT quốc gia hoặc thí sinh là học sinh không chuyên đạt giải  HSG Tỉnh/Thành phố: trong tổ hợp 03 môn xét tuyển phải có môn thí sinh tham gia thi/đạt giải
+
+	+ Thí sinh chỉ sử dụng môn ngoại ngữ chính (môn bắt buộc hoặc môn chuyên) để xét tuyển. Môn ngoại ngữ thứ hai (môn tự chọn hoặc không chuyên) không được dùng để xét tuyển theo các tổ hợp của Trường.
+- Đối với các chương trình tiêu chuẩn ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+Công thức tính điểm xét tuyển = (M1+M2+M3*2) + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+- M1,M2: là điểm trung bình chung kết quả học tập THPT (6 học kỳ) của  môn Toán và môn Văn 
+- M3: là điểm trung bình chung kết quả học tập THPT (6 học kỳ) môn Ngoại ngữ (Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Nhật hoặc Tiếng Nga hoặcTiếng Trung)
+	+ Riêng đối với nhóm đối tượng tuyển sinh: thí sinh là học sinh tham gia/đạt giải HSG Quốc gia/KHKT quốc gia hoặc thí sinh là học sinh không chuyên đạt giải  HSG Tỉnh/Thành phố: trong tổ hợp 03 môn xét tuyển phải có môn thí sinh tham gia thi/đạt giải
+	+ Thí sinh chỉ sử dụng môn ngoại ngữ chính (môn bắt buộc hoặc môn chuyên) để xét tuyển. Môn ngoại ngữ thứ hai (môn tự chọn hoặc không chuyên) không được dùng để xét tuyển theo các tổ hợp của Trường.
+
+1.2) Nhóm đối tượng tuyển sinh xét tuyển kết hợp giữa kết quả học tập THPT và chứng chỉ ngoại ngữ quốc tế
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình CTTT,CLC và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+Trong đó:
+- M1 là điểm trung bình chung kết quả học tập THPT môn Toán (6 học kỳ)
+- M2 là điểm trung bình chung kết quả học tập THPT một trong các môn (6 học kỳ) : môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+- Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Công thức tính điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+	Trong đó:
+- M1 là điểm trung bình chung kết quả học tập THPT môn Toán (6 học kỳ)
+- M2 là điểm trung bình chung kết quả học tập THPT một trong các môn (6 học kỳ) : môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh 
+- Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Công thức tính điểm xét tuyển = M1+M2+M3*) + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+- M1,M2 là điểm trung bình chung kết quả học tập THPT (6 học kỳ) của  môn Toán và môn Văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+
+2) Phương thức xét tuyển có sử dụng kết quả thi tốt nghiệp THPT năm 2025
+2.1) Nhóm đối tượng tuyển sinh xét tuyển bằng kết quả thi tốt nghiệp THPT năm 2025 (Kết quả thi tốt nghiệp của ba môn trong tổ hợp môn xét tuyển của Nhà trường)
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình tiêu chuẩn và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên  xét tuyển(nếu có)
+ Trong đó: 
+- M1, M2, M3: là kết quả điểm thi tốt nghiệp THPT năm 2025 của 03 môn trong tổ hợp môn xét tuyển của trường. 
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1: Điểm thi tốt nghiệp THPT năm 2025 của môn Toán
+- M2, M3: Điểm thi tốt nghiệp THPT năm 2025 của hai môn trong nhóm:  Vật lý+ Hóa Học hoặc Vật lý + Tiếng Anh hoặc Hóa học + Tiếng Anh hoặc Văn + Tiếng Anh
+- Đối với các chương trình tiêu chuẩn ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Điểm xét tuyển = M1+M2+M3*2 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+-  M1,M2: là điểm thi tốt nghiệp THPT năm 2025  của  môn Toán và môn Văn 
+- M3: là điểm thi tốt nghiệp THPT năm 2025 của môn Ngoại ngữ (Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Nhật hoặc Tiếng Nga hoặc Tiếng Trung)
+
+2.2) Nhóm đối tượng tuyển sinh xét tuyển kết hợp giữa kết quả thi tốt nghiệp THPT năm 2025 và chứng chỉ ngoại ngữ quốc tế
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình CTTT,CLC và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên  xét tuyển(nếu có)
+Trong đó: 
+- M1 là điểm thi tốt nghiệp THPT năm 2025 môn Toán
+- M2 là điểm thi tốt nghiệp THPT năm 2025 một trong các môn: môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1 là điểm thi tốt nghiệp THPT năm 2025 môn Toán
+- M2 là điểm thi tốt nghiệp THPT năm 2025 một trong các môn: môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+* Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Điểm xét tuyển = (M1+M2+M3*2) + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1,M2 là điểm thi tốt nghiệp THPT năm 2025  của  môn Toán và môn Văn 
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+
+3) Phương thức xét tuyển sử dụng chứng chỉ đánh giá năng lực trong nước và quốc tế
+3.1) Nhóm đối tượng tuyển sinh sử dụng kết quả thi đánh giá năng lực trong nước
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+Điểm ĐGNL của thí sinh được quy đổi về thang 30 theo công thức:
+- Điểm quy đổi về thang 30 của ĐGNL ĐHQG HN = 27 + (Điểm ĐGNL của thí sinh - 100)*3/50 
+- Điểm quy đổi về thang 40 của ĐGNL ĐHQG HN =( 27 + (Điểm ĐGNL của thí sinh - 100)*3/50)*4/3
+- Điểm quy đổi về thang 30 của ĐGNL ĐHQG TP.HCM =  27 + (Điểm ĐGNL của thí sinh - 850)*3/350
+Điểm xét tuyển được tính theo công thức:
+	Điểm xét tuyển = Điểm quy đổi + Điểm ưu tiên theo khu vực và đối tượng chính sách (nếu có)+ điểm ưu tiên xét tuyển (nếu có)
+
+3.2) Nhóm đối tượng tuyển sinh sử dụng kết quả thi đánh giá năng lực quốc tế
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình CTTT,CLC và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Điểm xét tuyển SAT/ACT = M1 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+	Điểm xét tuyển A-Level = MA1 + M2+ M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (thang điểm 40)
+	Điểm xét tuyển SAT/ACT = M1*3/2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+	Điểm xét tuyển A-Level = MA1*2 + M2+ M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+- Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Điểm xét tuyển SAT/ACT = M1*3/2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+	Điểm xét tuyển A-Level = MA1 + M2+ M3*2 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Ghi chú:
+- M1: là điểm quy đổi kết quả chứng chỉ SAT, chứng chỉ ACT ( thang 20 điểm) 
+- MA1: là  điểm môn Toán (Mathematics) trong chứng chỉ A –Level (thang 10 điểm);
+- M2: là điểm quy đổi kết quả điểm môn bất kỳ khác môn Toán (Mathematics) trong chứng chỉ A-Level nếu thí sinh sử dụng chứng chỉ A-level để xét tuyển
+
+4) Phương thức xét tuyển thẳng theo quy định
+- Thí sinh đủ điều kiện theo quy định Phương thức xét tuyển sử dụng chứng chỉ đánh giá năng lực trong nước và quốc tế của Đề án được trúng tuyển nếu xác nhận nhập học theo quy định của Bộ Giáo dục và Đào tạo vào Trường Đại học Ngoại thương;
+- Thí sinh sau khi trúng tuyển theo phương thức xét tuyển thẳng có nguyện vọng tham gia các chương trình tiên tiến, chương trình chất lượng cao, chương trình định hướng nghề nghiệp & phát triển quốc tế sẽ đăng ký xét tuyển theo thông báo tuyển sinh các chương trình của trường. 
+

@@ -1,0 +1,6 @@
+Đối tượng, điều kiện tuyển sinh của đại học chính quy
+
+Đối tượng tuyển sinh và điều kiện tuyển sinh đại học chính quy bao gồm:
+- Tất cả thí sinh tính tới thời điểm xác định trúng tuyển đã tốt nghiệp THPT (hoặc tương đương) bao gồm các thí sinh đã tốt nghiệp THPT tại Việt Nam và nước ngoài đáp ứng các điều kiện trong Đề án tuyển sinh năm 2025 của trường.
+- Có đủ sức khỏe để học tập theo quy định.
+- Không trong thời gian bị truy cứu trách nhiệm hình sự.

@@ -1,0 +1,15 @@
+Stt	Mã xét tuyển	Tên nhóm ngành	Tổ hợp gốc A00	Tổ hợp gốc D01	Ghi chú
+I. Trụ sở chính Hà Nội					
+1	NTH01-01	Ngành Luật	27,5		
+2	NTH01-02	Ngành Kinh tế	28,0		Các tổ hợp A01, D01, D02, D03, D04, D06, D07 chênh lệch giảm 0,5 điểm so với tổ hợp gốc
+3	NTH02	Ngành Quản trị kinh doanh Ngành Kinh doanh quốc tế Ngành Quản trị khách sạn Ngành Marketing	28,1		
+4	NTH03	Ngành Kế toán Ngành Tài chính - Ngân hàng	27,8		
+5	NTH04	Ngành Ngôn ngữ Anh	27,0		Điểm trúng tuyển được quy về thang điểm 30. Tổ hợp môn D03 chênh lệch giảm 0,75 điểm so với tổ hợp gốc
+6	NTH05	Ngành Ngôn ngữ Pháp	26,0		Điểm trúng tuyển được quy về thang điểm 30. Tổ hợp môn D03 chênh lệch giảm 0,75 điểm so với tổ hợp gốc
+7	NTH06	Ngành Ngôn ngữ Trung	28,5		Điểm trúng tuyển được quy về thang điểm 30. Tổ hợp môn D04 chênh lệch giảm 0,75 điểm so với tổ hợp gốc
+8	NTH07	Ngành Ngôn ngữ Nhật	26,0		Điểm trúng tuyển được quy về thang điểm 30. Tổ hợp môn D06 chênh lệch giảm 0,75 điểm so với tổ hợp gốc
+9	NTH09	Ngành Kinh tế chính trị	27,2		Các tổ hợp A01, D01, D07 chênh lệch giảm 0,5 điểm so với tổ hợp gốc
+10	NTH10	Ngành Khoa học máy tính	27,2		Điểm trúng tuyển được quy về thang điểm 30, không có chênh lệch giữa các tổ điểm xét tuyển
+II. Cơ sở II - Tp. Hồ Chí Minh					
+1	NTS01	Ngành Kinh tế Ngành Quản trị kinh doanh Ngành Tài chính - Ngân hàng	28,0		Các tổ hợp A01, D01, D07 chênh lệch giảm 0,5 điểm so với tổ hợp gốc
+2	NTS02	Ngành Kinh tế quốc tế Ngành Marketing	28,2		Các tổ hợp A01, D01, D07 chênh lệch giảm 0,5 điểm so với tổ hợp gốc

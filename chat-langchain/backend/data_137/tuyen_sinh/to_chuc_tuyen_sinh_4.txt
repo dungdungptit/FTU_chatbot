@@ -1,0 +1,45 @@
+Tổ chức tuyển sinh đối với phương thức xét tuyển sử dụng chứng chỉ đánh giá năng lực trong nước và quốc tế
+
+Nhóm đối tượng tuyển sinh sử dụng kết quả thi đánh giá năng lực trong nước
+
+1. Thời gian đăng ký: từ ngày 10/06/2025đến 20/06/2025.
+
+2. Các chương trình áp dụng:
+Các chương trình tiêu chuẩn (theo bảng chỉ tiêu trong đề án)
+Riêng Đối với bài thi ĐGNL năm 2025 của ĐHQG Hà Nội: Thí sinh chọn:
+- Phần 3-Khoa học: thí sinh bắt buộc chọn 02 lĩnh vực Vật lý và Hóa học, được xét tuyển vào các chương trình tiêu chuẩn trừ các chương trình tiêu chuẩn Ngôn ngữ thương mại;
+- Phần 3-Tiếng Anh: thí sinh được xét tuyển vào các chương trình tiêu chuẩn bao gồm tất cả các chương trình tiêu chuẩn Ngôn ngữ thương mại;
+
+3. Nguyên tắc xét tuyển:
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 và làm tròn đến hai chữ số thập phân. Cụ thể như sau:
+Điểm ĐGNL của thí sinh được quy đổi về thang 30 theo công thức:
+- Điểm quy đổi về thang 30 của ĐGNL ĐHQG HN = 27 + (Điểm ĐGNL của thí sinh - 100)*3/50
+- Điểm quy đổi về thang 40 của ĐGNL ĐHQG HN =( 27 + (Điểm ĐGNL của thí sinh - 100)*3/50)*4/3
+- Điểm quy đổi về thang 30 của ĐGNL ĐHQG TP.HCM =  27 + (Điểm ĐGNL của thí sinh - 850)*3/350
+
+Điểm xét tuyển được tính theo công thức:
+Điểm xét tuyển = Điểm quy đổi + Điểm ưu tiên theo khu vực và đối tượng chính sách (nếu có)+ điểm ưu tiên xét tuyển (nếu có)
+
+4. Cách tính điểm ưu tiên
+- Điểm ưu tiên theo khu vực và đối tượng chính sách (nếu có):
+Điểm ưu tiên theo khu vực và đối tượng chính sách (nếu có) đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi kết quả thi ĐGNL về điểm theo thang 30) được xác định theo công thức sau:
+Điểm ưu tiên theo khu vực và đối tượng chính sách= {[30 - (Điểm quy đổi)]/7,5} × (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+Đối với các chương trình ngoại ngữ thương mại: Điểm ưu tiên theo khu vực và đối tượng chính sách (nếu có) đối với thí sinh đạt tổng điểm từ 30 ( thang điểm 40) trở lên (khi quy đổi kết quả thi ĐGNL của ĐHQG HN về điểm theo thang 40) được xác định theo công thức sau:
+Điểm ưu tiên theo khu vực và đối tượng chính sách= {[40 - (Điểm quy đổi thang 40)]/10} × (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+
+* Điểm ưu tiên xét tuyển đối với thí sinh được giải quốc gia được xác định:
+Thí sinh tốt nghiệp THPT năm 2025 đạt giải (Nhất, Nhì, Ba, Khuyến khích) trong kỳ thi Học sinh giỏi quốc gia các môn thi thuộc tổ hợp đăng ký xét tuyển của Nhà trường hoặc trong Cuộc thi Khoa học kỹ thuật cấp quốc gia mà nội dung đề tài được Hội đồng tuyển sinh đánh giá là phù hợp với môn thuộc tổ hợp đăng ký xét tuyển của trường (Toán, Tin, Lý, Hóa, Văn, Tiếng Anh, Tiếng Pháp, Tiếng Nga, Tiếng Trung và Tiếng Nhật), được cộng điểm ưu tiên vào tổ hợp môn xét tuyển của trường có môn tương ứng với giải, như sau:
++ Thí sinh đạt giải Nhất: cộng 4 (bốn) điểm
++ Thí sinh đạt giải Nhì: cộng 3 (ba) điểm
++ Thí sinh đạt giải Ba: cộng 2 (hai) điểm
++ Thí sinh đạt giải Khuyến khích: cộng 1 (một) điểm
+
+Lưu ý:  - Thí sinh đạt nhiều giải ở nhiều môn/lĩnh vực hoặc cùng một môn/lĩnh vực ở các năm khác nhau và chỉ được hưởng một tiêu chuẩn cộng điểm cao nhất.
+
+5 Cách thức đăng ký và đánh giá hồ sơ:
+- Thí sinh xét tuyển theo phương thức này chỉ được chọn đăng ký xét tuyển tại 1 trong 2 cơ sở của trường: Trụ sở chính Hà Nội hoặc Cơ sở II - TP. Hồ Chí Minh.
+- Thí sinh sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất) trên hệ thống xét tuyển chung của Bộ Giáo dục và Đào tạo
+- Không giới hạn số lượng nguyện vọng
+- Thí sinh đủ điều kiện tham gia xét tuyển ở nhiều phương thức tuyển sinh. Khi đăng ký vào một chương trình sẽ được xét đồng thời các phương thức xét tuyển cùng một thời điểm đảm bảo cơ hội trúng tuyển cao nhất.
+- Các thí sinh sau khi trúng tuyển vào các chương trình tiêu chuẩn có nguyện vọng tham gia các chương trình tiên tiến, chương trình chất lượng cao, chương trình định hướng nghề nghiệp và phát triển quốc tế sẽ đăng ký xét tuyển theo thông báo tuyển sinh các chương trình của Trường.
+- Trường hợp các thí sinh bằng điểm xét tuyển ở cuối danh sách, Trường sử dụng tiêu chí phụ đánh giá hồ sơ theo kết quả tuyệt đối của bài thi ĐGNL và thứ tự ưu tiên nguyện vọng.

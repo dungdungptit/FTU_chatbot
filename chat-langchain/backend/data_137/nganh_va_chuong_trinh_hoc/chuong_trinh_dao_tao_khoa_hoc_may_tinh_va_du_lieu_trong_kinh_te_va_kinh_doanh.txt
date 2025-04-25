@@ -1,0 +1,43 @@
+Chương trình khoa học máy tính và dữ liệu trong kinh tế và kinh doanh
+1. Một số môn học tiêu biểu
+- Tư duy thiết kế
+- Nhập môn Tư duy tính toán và lập trình
+- Cấu trúc dữ liệu và Giải thuật
+- Phân tích và thiết kế hệ thống
+- Kiến trúc máy tính và Nguyên lý hệ điều hành
+- Công nghệ phần mềm
+- Nhập môn AI và Khoa học dữ liệu
+- Học máy
+- Phân tích dữ liệu trong kinh tế - kinh doanh
+- Kinh doanh số
+- Hệ phân tán & Công nghệ Blockchain
+- Thiết kế giao diện và trải nghiệm người dùng
+- Công nghệ và công cụ Big data
+- Công nghệ tài chính và Ứng dụng
+- Chuyển đổi kinh doanh với Hệ thống thông tin
+- Tư duy Khởi nghiệp và Thiết kế ý tưởng
+- Quản trị dự án Công nghệ thông tin và Truyền thông (ICT)
+- Phát triển năng lực lãnh đạo và xây dựng chiến lược
+- Các học phần kết nối thực tiễn từ Năm thứ 1 đến Năm thứ 4
++ i-TEC 1_ Phát triển kĩ năng và định hướng nghề nghiệp
++ i-TEC 2_Dự án AI
++ i-TEC 3_ Dự án Tối ưu hoá trong kinh tế và kinh doanh
++ i-TEC 4_Học phần Tốt nghiệp - Dự án sáng tạo
+2. Giới thiệu chung
+- Chương trình Khoa học Máy tính và Dữ liệu trong Kinh tế và Kinh doanh - Computing and Data Science for Economics and Business - là chương trình đào tạo định hướng ứng dụng ngành Khoa học máy tính cung cấp nền tảng vững chắc về khoa học máy tính, các cấu phần liên ngành khoa học máy tính, khoa học dữ liệu và kinh tế, kinh doanh, cùng với tiếp cận theo tư duy thiết kế, thúc đẩy năng lực đổi mới sáng tạo và dẫn dắt. Qua đó, giúp người học tiếp cận toàn diện từ tìm kiếm vấn đề, lựa chọn vấn đề đến phát triển giải pháp công nghệ, và dẫn dắt các dự án phát triển bền vững. 
+- Với các phương pháp giảng dạy hiện đại sinh viên không chỉ được trang bị những kiến thức nền tảng và chuyên sâu mà còn được củng cố, trau dồi các bộ kỹ năng linh hoạt qua chuỗi các học phần đặc thù i-TEC kết nối thực tiễn xuyên suốt từ Năm thứ 1 đến Năm thứ 4 giúp triển khai được các nội dung kiến thức gắn với thực tiễn và liên ngành. Sự kết hợp độc đáo giữa các ngành này sẽ đảm bảo sinh viên tốt nghiệp có thể tham gia đóng góp có ý nghĩa ở môi trường kinh doanh ngày càng năng động và cạnh tranh, đáp ứng được nhu cầu của thị trường việc làm hiện đại và xu thế phát triển trong thời đại cách mạng công nghiệp.
+
+Một số vị trí việc làm và định hướng nghề nghiệp nổi bật mà
+sinh viên có thể đảm nhận sau khi tốt nghiệp:
+- Chuyên gia/chuyên viên công nghệ máy tính (Computer Technologist) như lập trình viên, chuyên gia/chuyên viên phát triển phần mềm, ứng dụng web, di động; chuyên gia/chuyên viên phân tích, thiết kế hệ thống thông tin,...
+- Chuyên gia/chuyên viên phân tích dữ liệu kinh tế - kinh doanh (Economics and Business Data Analyst).
+- Nhà quản lý, điều phối các dự án, các tổ chức/doanh nghiệp công nghệ thông tin.
+- Nhà nghiên cứu, nhà tư vấn, giảng viên trong lĩnh vực máy tính, công nghệ thông tin, dữ liệu và kinh tế - kinh doanh.
+3. Lợi điểm của chương trình
+- Trang bị cho sinh viên không chỉ chuyên môn cốt lõi ngành Khoa học máy tính mà còn cung cấp kiến thức và kỹ năng để sinh viên kết nối cùng khoa học dữ liệu nhằm giải quyết các vấn đề thực tiễn trong lĩnh vực kinh tế và kinh doanh, có khả năng đưa ra quyết định chiến lược nhờ sự hỗ trợ của các giải pháp công nghệ như Trí tuệ nhân tạo, Big Data, Blockchain,... Ngoài ra, Chương trình sẽ được liên tục cập nhật theo xu hướng phát triển công nghệ và nhu cầu thị trường.
+- Sinh viên sẽ được học tập, nghiên cứu với đội ngũ giảng viên giàu kinh nghiệm và đạt tiêu chuẩn quốc tế, các chuyên gia hàng đầu trong lĩnh vực, có kiến thức học thuật sâu rộng và kinh nghiệm thực tế phong phú. Đội ngũ giảng dạy ngoài các giảng viên của Trường Đại học Ngoại thương đã từng học tập, nghiên cứu tại các trường đại học hàng đầu tại Nhật Bản, Hoa Kỳ, Italia, Pháp và các nước phát triển khác còn có các chuyên gia giàu kinh nghiệm đến từ các doanh nghiệp và các giáo sư ở các nước tiên tiến trên thế giới.
+- Chương trình tích hợp nhiều hoạt động kết nối doanh nghiệp, thực hành, thực tế. Trường Đại học Ngoại thương có mạng lưới kết nối doanh nghiệp rộng lớn trên phạm vi toàn cầu. Các học phần của chương trình được thiết kế theo mô hình đào tạo gắn với thực tiễn có sự tham gia của các chuyên gia từ các tổ chức, doanh nghiệp trong nước và quốc tế. Ngoài ra, các buổi tư vấn nghề nghiệp, hội thảo với doanh nghiệp, và các sự kiện tuyển dụng được Trường ĐH Ngoại Thương tổ chức sẽ là cơ hội để sinh viên tiếp cận với thị trường lao động và mở rộng cơ hội việc làm ngay từ khi đang là sinh viên.
+4. Cơ hội của sinh viên
+- Sinh viên có cơ hội học tập trao đổi ở nước ngoài và được công nhận tín chỉ với hơn 100 trường đối tác trên thế giới.
+- Sinh viên có cơ hội nhận được học bổng dành riêng cho Chương trình từ 25% cho đến học bổng toàn phần (100%) học phí trong suốt thời gian học tập.
+- Sinh viên còn có cơ hội nhận được các loại học bổng khác nhau từ các đơn vị là doanh nghiệp đối tác, từ Trường Đại học Ngoại thương dành cho sinh viên có thành tích học tập xuất sắc, sinh viên có hoàn cảnh khó khăn,...

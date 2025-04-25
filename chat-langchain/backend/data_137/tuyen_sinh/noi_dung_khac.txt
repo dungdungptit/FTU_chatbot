@@ -1,0 +1,39 @@
+Các nội dung khác (không trái quy định hiện hành)
+
+- Kiểm tra phân loại năng lực ngoại ngữ đầu vào: Sau khi nhập học, Trường tổ chức một kỳ kiểm tra phân loại năng lực ngoại ngữ đầu vào để tiến hành xếp lớp theo trình độ ngoại ngữ cho sinh viên và làm cơ sở để sinh viên đăng ký vào các chương trình chất lượng cao, chương trình tiên tiến và các chương trình định hướng nghề nghiệp và phát triển quốc tế của trường.
+- Đăng ký xét tuyển vào chương trình tiên tiến, chương trình chất lượng cao và các chương trình định hướng nghề nghiệp và phát triển quốc tế: Đối với thí sinh sau khi trúng tuyển vào trường theo phương thức xét tuyển không sử dụng kết hợp với chứng chỉ ngoại ngữ quốc tế vào các chương trình tiêu chuẩn sẽ được đăng ký xét tuyển vào chương trình tiên tiến, chất lượng cao, các chương trình định hướng nghề nghiệp và phát triển quốc tế khi đáp ứng điều kiện về điểm sàn nhận hồ sơ xét tuyển của từng chương trình. Điểm sàn nhận hồ sơ xét tuyển và phương thức xét tuyển vào các chương trình này sẽ được quy định cụ thể trong thông báo xét tuyển chương trình tiên tiến, chất lượng cao và các chương trình định hướng nghề nghiệp và phát triển quốc tế năm 2025 của trường.
+- Các chương trình tiên tiến, chất lượng cao, định hướng nghề nghiệp và phát triển quốc tế:
+
+|   STT | Chương trình                                                                | Trụ sở chính Hà Nội   | Cơ sở II - TP. HCM   |
+|-------|-----------------------------------------------------------------------------|-----------------------|----------------------|
+|     1 | CTTT Kinh tế đối ngoại                                                      | X                     | Không tuyển          |
+|     2 | CTTT Quản trị kinh doanh quốc tế                                            | X                     | Không tuyển          |
+|     3 | CTTT Tài chính-Ngân hàng                                                    | X                     | Không tuyển          |
+|     4 | CTTT i-Hons Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh              | X                     | Không tuyển          |
+|     5 | CLC Kinh tế đối ngoại                                                       | X                     | X                    |
+|     6 | CLC Quản trị kinh doanh quốc tế                                             | X                     | X                    |
+|     7 | CLC Ngân hàng và tài chính quốc tế                                          | X                     | X                    |
+|     8 | CLC Kinh tế quốc tế                                                         | X                     | Không tuyển          |
+|     9 | CLC Kinh doanh quốc tế                                                      | X                     | Không tuyển          |
+|    10 | ĐHNNQT - Logistics và Quản lý chuỗi cung ứng định hướng nghề nghiệp quốc tế | X                     | X                    |
+|    11 | ĐHNNQT - Kế toán-Kiểm toán định hướng nghề nghiệp ACCA                      | X                     | Không tuyển          |
+|    12 | ĐHNNQT - Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản                 | X                     | Không tuyển          |
+|    13 | ĐHNNQT - Quản trị Khách sạn                                                 | X                     | Không tuyển          |
+|    14 | ĐHNNQT - Luật KDQT theo mô hình thực hành nghề nghiệp                       | X                     | Không tuyển          |
+|    15 | ĐHNNQT - Kinh doanh số                                                      | X                     | Không tuyển          |
+|    16 | ĐHNNQT - Marketing số                                                       | X                     | Không tuyển          |
+|    17 | ĐHNNQT - Truyền thông marketing tích hợp                                    | Không tuyển           | X                    |
+|    18 | ĐHPTQT - Kinh tế chính trị quốc tế                                          | X                     | Không tuyển          |
+|    19 | ĐHNNQT- Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh            | X                     | Không tuyển          |
+|    20 | CLC Ngôn ngữ Pháp                                                           | X                     | Không tuyển          |
+|    21 | CLC Ngôn ngữ Trung                                                          | X                     | Không tuyển          |
+|    22 | CLC Ngôn ngữ Nhật                                                           | X                     | Không tuyển          |
+|    23 | CLC Ngôn ngữ Anh                                                            | X                     | Không tuyển          |
+
+* Về miễn, giảm học phí và học bổng:
+- Trường thực hiện quy định về cơ chế thu, quản lý học phí đối với Cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tậpban hành theo Nghị định 81/2021/NĐ-CP ngày 27 tháng 08 năm 2021 của Chính phủ; thực hiện chế độ hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số thuộc hộ nghèo và hộ cận nghèo theo Thông tư liên tịch số 35/2014/TTLT-BGDĐT-BTC ngày 15/10/2014 của Bộ trưởng Bộ GD&amp;ĐT và Bộ Tài chính về việc Hướng dẫn thực hiện quyết định số 66/2013/QĐ-TTg ngày 11/11/2013 của Thủ tướng chính phủ quy định chính sách hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số học tại các cơ sở giáo dục đại học.
+- Với mục tiêu thu hút nhân tài và đảm bảo khả năng tiếp cận giáo dục đại học với sinh viên có hoàn cảnh khó khăn nỗ lực vươn lên trong học tập, hàng năm trường trích khoảng 35 tỷ đồng từ nguồn thu học phí của sinh viên chính quy, các nguồn thu khác của trường để cấp học bổng khuyến khích học tập, hỗ trợ tài chính và các hoạt động của sinh viên theo Quyết định số 40/QĐ-ĐHNT ngày 16/01/2017 về quy định chính sách hỗ trợ sinh viên hệ chính quy. Cụ thể như sau:
+    + Quỹ học bổng khuyến khích học tập bao gồm: Học bổng khuyến khích học tập dành cho sinh viên đạt kết quả tốt trong học tập; Học bổng khuyến khích dành cho sinh viên các chương trình chương trình tiên tiến, chất lượng cao và các chương trình định hướng nghề nghiệp và phát triển quốc tế; Học bổng khuyến khích dành cho sinh viên thủ khoa đầu vào; Học bổng dành cho sinh viên có hoàn cảnh khó khăn đạt kết quả học tập tốt; Học bổng của các tổ chức, doanh nghiệp trong và ngoài nước,....
+    + Các hoạt động hỗ trợ sinh viên bao gồm: Hỗ trợ sinh viên nghiên cứu khoa học; Hỗ trợ ưu tiên bố trí ký túc xá và miễn giảm lệ phí ký túc xá cho sinh viên có hoàn cảnh khó khăn; hỗ trợ tài chính cho sinh viên trong các trường hợp khó khăn đột xuất; Hỗ trợ thường niên cho các câu lạc bộ sinh viên; Hỗ trợ chi phí hành chính cho Đoàn thanh niên; Phụ cấp cho cán bộ lớp, cán bộ Đoàn, chủ tịch câu lạc bộ sinh viên...; Hỗ trợ các hoạt động phong trào của Đoàn thanh niên; Hỗ trợ tiền tết Nguyên Đán cho sinh viên; Hỗ trợ công tác Hướng nghiệp, đào tạo kỹ năng, tư vấn việc làm cho sinh viên; Hỗ trợ chuyên môn cho các câu lạc bộ và các Hỗ trợ khác.
+    + Trường có quỹ cho vay học bổng FTU-MABUCHI với định mức cho vay khoảng 15 triệu đồng/năm, lãi suất 0%, thời gian cho vay kéo dài tối đa 8 năm, dành cho các sinh viên có hoàn cảnh khó khăn để trang trải chi phí sinh hoạt và học tập.
+

@@ -1,0 +1,8 @@
+Thông tin về các khu vực ưu tiên và mức điểm cộng
+
+| STT | Khu vực | Mô tả chi tiết | Mức điểm cộng |
+|-----|---------|----------------|----------------|
+| 1 | KV1 | - Xã khu vực I, II, III và xã có thôn đặc biệt khó khăn thuộc vùng dân tộc và miền núi<br>- Các xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo<br>- Xã đặc biệt khó khăn, xã biên giới, xã an toàn khu thuộc Chương trình 135 theo quy định của Thủ tướng Chính phủ | +0,75 điểm |
+| 2 | KV2 | - Thị xã, thành phố trực thuộc tỉnh<br>- Thị xã, huyện ngoại thành của thành phố trực thuộc trung ương (trừ các xã thuộc KV1) | +0,25 điểm |
+| 3 | KV2-NT | - Các địa phương không thuộc KV1, KV2, KV3 (khu vực 2 nông thôn) | +0,5 điểm |
+| 4 | KV3 | - Các quận nội thành của thành phố trực thuộc trung ương | 0 điểm |

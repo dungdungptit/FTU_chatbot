@@ -1,0 +1,10 @@
+Thông tin về cách cộng điểm ưu tiên đối với đối tượng chính sách, khu vực
+
+Thực hiện cộng điểm ưu tiên đối tượng chính sách và khu vực bình thường theo quy định với các thí sinh đạt tổng điểm dưới 22,5. Điểm ưu tiên đối tượng chính sách và khu vực (nếu có) đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi điểm xét tuyển về thang 30) được xác định theo công thức sau:
+
+1. Điểm ưu tiên đối tượng chính sách và khu vực đối với các mã xét tuyển NTH01-01, NTH01-02, NTH02-01, NTH02-02, NTH03, NTH08, NTH09, NTS01, NTS02= [30 - (M1+M2+M3)]/7,5 * (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+
+2. Điểm ưu tiên đối tượng chính sách và khu vực đối với mã xét tuyển NTH04, NTH05, NTH06, NTH07 (các ngành Ngôn ngữ) = [30 - (M1+M2+M3*2)*3/4]/7,5 * (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+
+3. Điểm ưu tiên đối tượng chính sách và khu vực đối với  mã xét tuyển NTH10- Ngành Khoa học máy tính = [30 - (M1*2+M2+M3)*3/4]/7,5 * (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+

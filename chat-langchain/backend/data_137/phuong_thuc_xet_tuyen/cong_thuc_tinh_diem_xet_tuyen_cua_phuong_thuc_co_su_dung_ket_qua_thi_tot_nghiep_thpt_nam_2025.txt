@@ -1,0 +1,38 @@
+Thông tin về công thức tính điểm xét tuyển của phương thức có sử dụng kết quả thi tốt nghiệp THPT năm 2025
+
+1) Nhóm đối tượng tuyển sinh xét tuyển bằng kết quả thi tốt nghiệp THPT năm 2025 (Kết quả thi tốt nghiệp của ba môn trong tổ hợp môn xét tuyển của Nhà trường)
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình tiêu chuẩn và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên  xét tuyển(nếu có)
+ Trong đó: 
+- M1, M2, M3: là kết quả điểm thi tốt nghiệp THPT năm 2025 của 03 môn trong tổ hợp môn xét tuyển của trường. 
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1: Điểm thi tốt nghiệp THPT năm 2025 của môn Toán
+- M2, M3: Điểm thi tốt nghiệp THPT năm 2025 của hai môn trong nhóm:  Vật lý+ Hóa Học hoặc Vật lý + Tiếng Anh hoặc Hóa học + Tiếng Anh hoặc Văn + Tiếng Anh
+- Đối với các chương trình tiêu chuẩn ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Điểm xét tuyển = M1+M2+M3*2 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+-  M1,M2: là điểm thi tốt nghiệp THPT năm 2025  của  môn Toán và môn Văn 
+- M3: là điểm thi tốt nghiệp THPT năm 2025 của môn Ngoại ngữ (Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Nhật hoặc Tiếng Nga hoặc Tiếng Trung)
+
+2) Nhóm đối tượng tuyển sinh xét tuyển kết hợp giữa kết quả thi tốt nghiệp THPT năm 2025 và chứng chỉ ngoại ngữ quốc tế
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình CTTT,CLC và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên  xét tuyển(nếu có)
+Trong đó: 
+- M1 là điểm thi tốt nghiệp THPT năm 2025 môn Toán
+- M2 là điểm thi tốt nghiệp THPT năm 2025 một trong các môn: môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1 là điểm thi tốt nghiệp THPT năm 2025 môn Toán
+- M2 là điểm thi tốt nghiệp THPT năm 2025 một trong các môn: môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+* Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Điểm xét tuyển = (M1+M2+M3*2) + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+- M1,M2 là điểm thi tốt nghiệp THPT năm 2025  của  môn Toán và môn Văn 
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;

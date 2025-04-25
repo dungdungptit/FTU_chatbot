@@ -1,0 +1,64 @@
+Tổ chức tuyển sinh đối vơi phương thức xét tuyển có sử dụng kết quả thi tốt nghiệp THPT năm 2025
+
+Nhóm đối tượng tuyển sinh xét tuyển bằng kết quả thi tốt nghiệp THPT năm 2025 (Kết quả thi tốt nghiệp của ba môn trong tổ hợp môn xét tuyển của Nhà trường)
+
+1.Thời gian đăng ký: Theo quy định của Bộ  Giáo dục và Đào tạo
+
+2. Các chương trình áp dụng:
+Các chương trình tiêu chuẩn và ĐHNN&PTQT (theo bảng chỉ tiêu của đề án).
+
+3. Nguyên tắc xét tuyển:
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau:
+- Đối với các chương trình tiêu chuẩn và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại):
+Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên  xét tuyển(nếu có)
+Trong đó:
+    - M1, M2, M3: là kết quả điểm thi tốt nghiệp THPT năm 2025 của 03 môn trong tổ hợp môn xét tuyển của trường.
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+
+- Điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+    - M1: Điểm thi tốt nghiệp THPT năm 2025 của môn Toán
+    - M2, M3: Điểm thi tốt nghiệp THPT năm 2025 của hai môn trong nhóm:  Vật lý+ Hóa Học hoặc Vật lý + Tiếng Anh hoặc Hóa học + Tiếng Anh hoặc Văn + Tiếng Anh
+    - Đối với các chương trình tiêu chuẩn ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2):
+
+- Điểm xét tuyển = M1+M2+M3*2 + Điểm ưu tiên theo khu vực, đối tượng (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Trong đó:
+    -  M1,M2: là điểm thi tốt nghiệp THPT năm 2025  của  môn Toán và môn Văn
+    - M3: là điểm thi tốt nghiệp THPT năm 2025 của môn Ngoại ngữ (Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Nhật hoặc Tiếng Nga hoặcTiếng Trung)
+
+4 Cách tính điểm ưu tiên
+* Điểm ưu tiên đối tượng chính sách, điểm ưu tiên khu vực được xác định theo Quy chế tuyển sinh đại học của Trường, cụ thể:
+- Đối với các chương trình không có môn nhân đôi hệ số : Điểm ưu tiên đối tượng chính sách và khu vực (nếu có) đối với thí sinh đạt tổng điểm từ 22,5 (thang 30) trở lên được xác định theo công thức:
+- Điểm ưu tiên đối tượng và khu vực= {[30 - (M1+M2+M3)]/7,5} × (Mức điểm ưu tiên đối tượng chính sách + Mức điểm ưu tiên khu vực)
+- Đối với các chương trình có môn nhân đôi hệ số: Điểm ưu tiên đối tượng chính sách và khu vực (nếu có) đối với thí sinh đạt tổng điểm từ 30 (thang 40) trở lên được xác định theo công thức:
+- Điểm ưu tiên đối tượng và khu vực = {[40 - (tổng điểm xét tuyển thang 40)]/10} × (Điểm ưu tiên đối tượng chính sách + điểm ưu tiên khu vực)
+
+* Điểm ưu tiên xét tuyển đối với thí sinh được giải quốc gia được xác định:
+Thí sinh tốt nghiệp THPT năm 2025 đạt giải (Nhất, Nhì, Ba, Khuyến khích) trong kỳ thi Học sinh giỏi quốc gia các môn thi thuộc tổ hợp đăng ký xét tuyển của Nhà trường hoặc trong Cuộc thi Khoa học kỹ thuật cấp quốc gia mà nội dung đề tài được Hội đồng tuyển sinh đánh giá là phù hợp với môn thuộc tổ hợp đăng ký xét tuyển của trường (Toán, Tin, Lý, Hóa, Văn, Tiếng Anh, Tiếng Pháp, Tiếng Nga, Tiếng Trung và Tiếng Nhật), được cộng điểm ưu tiên vào tổ hợp môn xét tuyển của trường có môn tương ứng với giải, như sau:
++ Thí sinh đạt giải Nhất: cộng 4 (bốn) điểm
++ Thí sinh đạt giải Nhì: cộng 3 (ba) điểm
++ Thí sinh đạt giải Ba: cộng 2 (hai) điểm
++ Thí sinh đạt giải Khuyến khích: cộng 1 (một) điểm
+
+Lưu ý: Thí sinh đạt nhiều giải ở nhiều môn/lĩnh vực hoặc cùng một môn/lĩnh vực ở các năm khác nhau và chỉ được hưởng một tiêu chuẩn cộng điểm cao nhất.
+
+* Chênh lệch điểm giữa các tổ hợp môn xét tuyển:
+- Đối với Trụ sở chính Hà Nội và Cơ sở II-TP. Hồ Chí Minh:
+Các chương trình tiêu chuẩn và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại):
++ Tổ hợp môn xét tuyển A01, D01, D02, D03, D04, D06, D07 thấp hơn tổ hợp môn xét tuyển A00 là 0,5 điểm/ thang 30 điểm.
+
+Các chương trình tiêu chuẩn ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2):
++ Tổ hợp môn xét tuyển D03, D04, D06 thấp hơn tổ hợp môn xét tuyển D01 là 0,75 điểm (thang 40 điểm).
+
+Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2): Không có chênh lệch điểm giữa các tổ hợp môn xét tuyển.
+- Đối với Cơ sở Quảng Ninh: Không có chênh lệch điểm giữa các tổ hợp môn xét tuyển.
+
+* Điểm trúng tuyển được xác định riêng cho từng cơ sở bao gồm Trụ sở chính Hà Nội, Cơ sở II - TP. Hồ Chí Minh và Cơ sở Quảng Ninh.
+* Thí sinh sau khi trúng tuyển có nguyện vọng tham gia các CTTT, CLC, ĐHNN&amp;PTQT sẽ đăng ký xét tuyển theo thông báo tuyển sinh các chương trình của trường.
+
+5. Cách thức đăng ký và đánh giá hồ sơ
+- Thí sinh sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất) trên hệ thống xét tuyển chung của Bộ Giáo dục và Đào tạo
+- Không giới hạn số lượng nguyện vọng
+- Thí sinh đủ điều kiện tham gia xét tuyển ở nhiều phương thức tuyển sinh. Khi đăng ký vào một chương trình sẽ được xét đồng thời các phương thức xét tuyển cùng một thời điểm đảm bảo cơ hội trúng tuyển cao nhất.
+- Các thí sinh sau khi trúng tuyển vào các chương trình tiêu chuẩn có nguyện vọng tham gia các chương trình tiên tiến, chương trình chất lượng cao, chương trình định hướng nghề nghiệp và phát triển quốc tế sẽ đăng ký xét tuyển theo thông báo tuyển sinh các chương trình của Trường.
+- Trường hợp các thí sinh bằng điểm xét tuyển ở cuối danh sách, Trường sử dụng tiêu chí phụ đánh giá hồ sơ theo điểm thi tốt nghiệp THPT năm 2025 môn Toán và thứ tự ưu tiên nguyện vọng.

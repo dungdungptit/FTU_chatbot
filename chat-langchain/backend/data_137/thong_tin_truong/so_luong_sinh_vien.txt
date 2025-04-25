@@ -1,0 +1,3 @@
+Số lượng sinh viên, số lượng học viên, số lượng nghiên cứu sinh, số lượng cán bộ, số lượng giảng viên, số lượng nhân viên của đại học Ngoại Thương
+
+Nhà trường có gần 20.000 sinh viên, học viên, nghiên cứu sinh và hơn 850 cán bộ, giảng viên, nhân viên.

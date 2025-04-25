@@ -1,0 +1,25 @@
+Thông tin về điểm trúng tuyển trung học phổ thông của đại học Ngoại Thương năm 2023
+
+- Cơ sở: Hà Nội
+  1. Quản trị kinh doanh (Quản trị Kinh doanh) - Tổ hợp: A00 (27.7), A01 (27.2), D01 (27.2), D07 (27.2)
+  2. Tài chính - Ngân hàng (Tài chính - Ngân hàng) - Tổ hợp: A00 (27.5), A01 (27.0), D01 (27.0), D07 (27.0)
+  3. Kế toán (Kế toán) - Tổ hợp: A00 (27.45), A01 (26.95), D01 (26.95), D07 (26.95)
+  4. Kinh doanh quốc tế (Kinh doanh Quốc tế) - Tổ hợp: A00 (27.9), A01 (27.4), D01 (27.4), D06 (27.4), D07 (27.4)
+  5. Marketing (Marketing) - Tổ hợp: A00 (27.8), A01 (27.3), D01 (27.7), D06 (27.3), D07 (27.3)
+  6. Luật (Luật) - Tổ hợp: A00 (26.9), A01 (26.4), D01 (26.4), D07 (26.4)
+  7. Ngôn ngữ Anh (Ngôn ngữ Anh) - Tổ hợp: D01 (27.5)
+  8. Ngôn ngữ Pháp (Ngôn ngữ Pháp) - Tổ hợp: D03 (25.45), D01 (26.2)
+  9. Ngôn ngữ Trung (Ngôn ngữ Trung) - Tổ hợp: D01 (28.5), D04 (27.75)
+  10. Ngôn ngữ Nhật (Ngôn ngữ Nhật) - Tổ hợp: D01 (26.8), D06 (26.05)
+  11. Kinh tế (Kinh tế) - Tổ hợp: A00 (28.3), A01 (27.8), D01 (27.8), D02 (27.8), D03 (27.8), D04 (27.8), D06 (27.8), D07 (27.8)
+  12. Kinh tế quốc tế (Kinh tế quốc tế) - Tổ hợp: A00 (28), A01 (27.5), D01 (27.5),D03 (27.5), D07 (27.5)
+  13. Quản trị khách sạn (Quản trị khách sạn) - Tổ hợp: A00 (27,7), A01 (27.2), D01 (27.2), D07 (27.2)
+
+- Cơ sở: TP Hồ Chí Minh
+  1. Quản trị kinh doanh (Quản trị Kinh doanh) - Tổ hợp: A00 (27.63), A01 (27.13), D01 (27.13), D07 (27.13)
+  2. Tài chính - Ngân hàng (Tài chính - Ngân hàng) - Tổ hợp: A00 (28.3), A01 (27.8), D01 (27.8), D07 (27.8)
+  3. Kế toán (Kế toán) - Tổ hợp: A00 (27.8), A01 (27.3), D01 (27.3), D07 (27.3)
+  4. Kinh doanh quốc tế (Kinh doanh Quốc tế) - Tổ hợp: A00 (28.7), A01 (28.2), D01 (28.2), D07 (28.2)
+  5. Marketing (Marketing) - Tổ hợp: A00 (28.4), A01 (27.9), D01 (27.9), D07 (27.9)
+  6. Kinh tế (Kinh tế) - Tổ hợp: A00 (27.6), A01 (27.1), D01 (27.1), D06 (27.1), D07 (27.1)
+

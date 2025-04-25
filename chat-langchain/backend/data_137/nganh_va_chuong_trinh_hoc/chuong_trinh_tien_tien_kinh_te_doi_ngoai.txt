@@ -1,0 +1,30 @@
+Chương trình tiên tiến kinh tế đối ngoại 
+1. Một số môn học tiêu biểu 
+- Kinh tế vi mô & Kinh tế vĩ mô
+- Kinh tế kinh doanh & Nguyên lý quản lý kinh tế
+- Kinh doanh quốc tế & Giao dịch thương mại quốc tế
+- Chính sách thương mại quốc tế & Đầu tư quốc tế
+- Marketing căn bản & Marketing quốc tế
+- Logistics và Vận tải quốc tế
+- Văn hóa và Lập trình Python
+- Chuỗi học phần gắn kết thực tiễn e-PLANE I-IV
+- Chuỗi học phần xây dựng năng lực nghiên cứu e-CAR I-IV
+- Cùng rất nhiều học phần tự chọn hấp dẫn, thực tiễn theo 4 định hướng Marketing, Quản lý công, Kinh doanh quốc tế, Logistics và Quản lý chuỗi cung ứng như Tư duy thiết kế, Khoa học quản lý căn bản, Phân tích chính sách, Cơ sở dữ liệu, Tâm lý học Kinh doanh, Marketing số, Chiến lược quản lý chuỗi cung ứng toàn cầu...
+2. Giới thiệu chung 
+- Chương trình tiên tiến (CTTT) Kinh tế đối ngoại (KTĐN) được xây dựng từ năm 2008, là CTTT đầu tiên trong lĩnh vực KTĐN ở Việt Nam được Bộ Giáo dục và Đào tạo tài trợ. Chương trình đào tạo kinh tế ứng dụng chuyên sâu, được phát triển từ chương trình KTĐN danh tiếng của Trường Đại học Ngoại thương và theo chuẩn quốc tế dựa trên chương trình đào tạo của trường đối tác là Đại học Tổng hợp bang Colorado (Colorado State University – CSU), một trong những trường đại học công lập hàng đầu Hoa Kỳ.
+- Chương trình liên tục được cập nhật những nội dung mới với những khối kiến thức tiên tiến, phù hợp với bối cảnh thực tiễn và nhu cầu nguồn nhân lực của Việt Nam và thế giới. Sinh viên học 3 năm tại FTU và 1 năm ở CSU được nhận đồng thời hai bằng cử nhân ngành kinh tế của cả CSU và FTU.
+3. Lợi điểm của chương trình 
+Chương trình được giảng dạy bởi các giảng viên uy tín và giàu kinh nghiệm đến từ CSU, FTU và các cơ sở đào tạo uy tín khác tại Việt Nam. Chương trình đào tạo gắn kết chặt chẽ với thực tiễn thông qua sự hợp tác sâu rộng với chuyên gia thực tiễn giàu kinh nghiệm từ các cơ quan quản lý nhà nước, các doanh nghiệp và các tổ chức quốc tế.
+- Bên cạnh việc trang bị cho sinh viên những kiến thức nền tảng về kinh tế kinh doanh, Chương trình có 2 trụ cột xuyên suốt 4 năm giúp nâng cao năng lực phân tích (e-CAR) và tăng cường gắn kết thực tiễn (e-PLANE). Các học phần e-CAR I – IV trang bị nền tảng căn bản về phương pháp luận nghiên cứu, phương pháp xử lý và phân tích dữ liệu kinh tế, kinh doanh với các công cụ hiện đại. Các học phần e-PLANE I – IV giúp sinh viên trải nghiệm quan sát, làm việc nhóm và làm việc cá nhân tại các cơ quan, tổ chức, doanh nghiệp với mức độ gắn kết thực tiễn tăng dần. Mặt khác, sinh viên có các lựa chọn linh hoạt trong các khối kiến thức từ đại cương tới giáo dục chuyên nghiệp thể hiện tinh thần giáo dục khai phóng, phát triển năng lực bản thân và phục vụ cho các vị trí việc làm khác nhau.
+- Điểm nổi trội nữa của Chương trình Kinh tế đối ngoại là thiết kế chương trình cho phép
+sinh viên được lựa chọn theo đuổi một số định hướng chuyên sâu trong khối kiến thức chuyên ngành để chuẩn bị cho những đòi hỏi chuyên môn cao trong công việc và những vị trí nghề nghiệp khác nhau, bao gồm chuyên sâu Kinh doanh quốc tế, chuyên sâu Quản lý công, chuyên sâu Logistics và Quản lý chuỗi cung ứng, chuyên sâu Marketing.... Đặc biệt, thiết kế chương trình cho phép sinh viên mong muốn phát triển nghề nghiệp trong lĩnh vực xuất nhập khẩu, logistics và quản lý chuỗi cung ứng có thể lựa chọn các học phần phù hợp kết hợp với việc tích lũy các học phần của Liên đoàn các hiệp hội giao nhận vận tải quốc tế (FIATA) để đồng thời tích lũy tín chỉ và nhận bằng cấp nghề nghiệp quốc tế của tổ chức này ngay khi hoàn thành Chương trình Kinh tế đối ngoại.
+- Sinh viên khi chuyển tiếp năm cuối sang CSU theo chương trình 3+1 và đáp ứng điều kiện sẽ nhận được bằng tốt nghiệp của FTU (với chuyên ngành chính là Kinh tế đối ngoại và chuyên ngành phụ trong lĩnh vực kinh doanh) và bằng tốt nghiệp của CSU. Sinh viên học toàn thời gian tại FTU, sẽ nhận được bằng tốt nghiệp của FTU kèm chứng chỉ hoàn thành chương trình đào tạo của CSU.
+- Sinh viên được học tập trong môi trường quốc tế, có cơ hội tham gia nhiều hoạt động hướng nghiệp, kết nối doanh nghiệp, hội thảo, tọa đàm với những diễn giả nổi tiếng là các chuyên gia, doanh nhân, chính khách trong và ngoài nước.
+- Sinh viên được tham gia nhiều hoạt động ngoại khóa như: We the Icebreakers, gặp mặt đầu khóa và định hướng nghề nghiệp cho sinh viên CTTT, chia sẻ kinh nghiệm và kết nối sinh viên và cựu sinh viên CTTT, tham quan doanh nghiệp, dạ hội thường niên, ...
+4. Cơ hội trao đổi và học bổng 
+- Sinh viên đủ điều kiện chuyển tiếp năm cuối sang CSU sẽ được nhận học bổng tương đương với 1/3 mức học phí áp dụng cho sinh viên quốc tế. Mức học bổng này cũng được dành cho sinh viên tiếp tục theo học bậc thạc sĩ tại CSU. 
+- Cơ hội nhận học bổng của Trường Đại học Ngoại thương.
+- Cơ hội nhận học bổng của các nhà tài trợ, các tổ chức kinh tế trong và ngoài nước.
+- Cơ hội được giới thiệu đi thực tập tại các cơ quan, tổ chức, doanh nghiệp là đối tác của trường và của Viện KT&KDQT.
+- Cơ hội tham gia các hoạt động trao đổi và chuyển tiếp sang các trường đại học danh tiếng như Đại học Tổng hợp bang Colorado (Hoa Kỳ), Đại học Huddersfield (Anh), Đại học Bournemouth (Anh), Đại học Northeastern (Hoa Kỳ)... với các mức học bổng và ưu đãi học phí theo thỏa thuận ký kết giữa trường Đại học Ngoại thương và các đối tác.
+- Cơ hội được tham gia vào hoạt động nghiên cứu khoa học với các giảng viên CSU và trường Đại học Ngoại thương.

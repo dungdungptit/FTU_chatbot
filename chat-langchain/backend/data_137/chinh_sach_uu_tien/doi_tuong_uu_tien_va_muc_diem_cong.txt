@@ -1,0 +1,11 @@
+Thông tin về các đối tượng ưu tiên và mức điểm cộng
+
+| STT | Nhóm đối tượng | Mô tả chi tiết | Mức điểm cộng |
+|-----|----------------|----------------|----------------|
+| 01 | Đối tượng 01 | Công dân Việt Nam là người dân tộc thiểu số có hộ khẩu thường trú tại: các xã khu vực I, II, III thuộc vùng dân tộc và miền núi (2012-2015); các xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo (2013-2015); các xã đặc biệt khó khăn, xã biên giới, xã an toàn khu thuộc Chương trình 135 (2014-2015)... | +2 điểm |
+| 02 | Đối tượng 02 | Công nhân trực tiếp sản xuất làm việc liên tục ≥ 5 năm, trong đó có ≥ 2 năm là chiến sĩ thi đua cấp tỉnh trở lên được công nhận và cấp bằng khen. | +2 điểm |
+| 03 | Đối tượng 03 | Thương binh, bệnh binh, người có “Giấy chứng nhận hưởng chính sách như thương binh”; Quân nhân, công an nhân dân tại ngũ được cử đi học (≥12 tháng tại khu vực 1); Quân nhân, công an đã xuất ngũ, hoàn thành nghĩa vụ theo quy định. | +2 điểm |
+| 04 | Đối tượng 04 | Con liệt sĩ; Con thương binh/bệnh binh mất sức ≥ 81%; Con người hoạt động kháng chiến bị nhiễm chất độc hoá học suy giảm lao động ≥ 81%; Con người được hưởng chính sách như thương binh bị suy giảm ≥ 81%; Con đẻ người hoạt động kháng chiến bị dị tật do chất độc hóa học đang hưởng trợ cấp hàng tháng. | +2 điểm |
+| 05 | Đối tượng 05 | Thanh niên xung phong tập trung được cử đi học; Quân nhân, công an nhân dân tại ngũ phục vụ < 18 tháng không ở khu vực 1; Chỉ huy quân sự xã/phường/thị trấn; Thôn đội trưởng, Trung đội trưởng Dân quân tự vệ, đã hoàn thành nghĩa vụ ≥ 12 tháng, thi vào ngành Quân sự cơ sở. | +1 điểm |
+| 06 | Đối tượng 06 | Công dân dân tộc thiểu số ngoài khu vực thuộc đối tượng 01; Con thương binh, bệnh binh, người hưởng chính sách như thương binh mất sức < 81%; Con người bị nhiễm chất độc hóa học suy giảm < 81%; Con người bị địch bắt tù, đày; Con người hoạt động kháng chiến giải phóng dân tộc, giúp cách mạng, có giấy tờ theo Nghị định 31/2013/NĐ-CP. | +1 điểm |
+| 07 | Đối tượng 07 | Người khuyết tật nặng; Người lao động ưu tú (được cấp tỉnh, Bộ trở lên công nhận thợ giỏi, nghệ nhân, bằng/huân chương lao động sáng tạo); Giáo viên giảng dạy ≥ 3 năm thi ngành sư phạm; Y tá, dược tá, hộ lý, kỹ thuật viên, y sĩ, dược sĩ trung cấp công tác ≥ 3 năm thi ngành y, dược. | +1 điểm |

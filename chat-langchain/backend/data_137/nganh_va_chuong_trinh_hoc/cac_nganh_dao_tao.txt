@@ -1,0 +1,16 @@
+Danh sách các ngành học 
+1. Ngành Kinh tế 
+2. Ngành Quản trị kinh doanh 
+3. Ngành Marketing  
+4. Ngành Kinh tế quốc tế  
+5. Ngành Kinh doanh quốc Tế
+6. Ngành Tài chính - Ngân hàng 
+7. Ngành Ngôn ngữ Anh 
+8. Ngành ngôn ngữ Pháp 
+9. Ngành Ngôn ngữ Trung 
+10. Ngành ngôn ngữ Nhật  
+11. Ngành Kế toán
+12. Ngành Luật 
+13. Ngành Quản trị khách sạn  
+14. Ngành kinh tế chính trị
+15. Ngành khoa học máy tính

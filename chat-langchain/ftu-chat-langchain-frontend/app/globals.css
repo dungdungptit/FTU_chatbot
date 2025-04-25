@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background: #131318;
+}
+
+body input,
+body textarea {
+  color: black;
+}
+
+a {
+  color: #2d7bd4 !important;
+}
+
+#text_area:focus-visible {
+  border-color: #b8231d;
+  box-shadow: 0 0 0 2px rgba(172, 0, 0, .2);
+}
+#text_area:focus {
+  border-color: #b8231d;
+  box-shadow: 0 0 0 2px rgba(172, 0, 0, .2);
+}
+
+a:hover {
+  border-bottom: 1px solid;
+}
+
+p {
+  margin: 8px 0;
+}
+
+code {
+  color: #ffa500;
+}
+
+li {
+  padding: 4px;
+}
+
+.chakra-popover__content {
+    width: 500px !important;
+    max-width: 100%;
+}

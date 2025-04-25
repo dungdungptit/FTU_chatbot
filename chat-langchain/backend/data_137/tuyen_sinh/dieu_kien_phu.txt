@@ -1,0 +1,52 @@
+Một số điều kiện  liên quan đến xét tuyển
+
+1. Tiêu chí phụ sử dụng trong xét tuyển đối với các phương thức
+a. Đối với các phương thức tuyển sinh có sử dụng kết quả học tập THPT và  kết quả thi tốt nghiệp THPT năm 2025
+- Trường hợp tại ngưỡng điểm đánh giá hồ sơ xác định trúng tuyển của từng chương trình đào tạo, số thí sinh nhiều hơn số chỉ tiêu xét tuyển còn lại, Trường sử dụng tiêu chí phụ là điểm thi tốt nghiệp THPT năm 2025 môn Toán.
+
+b. Riêng đối với phương thức xét tuyển theo chứng chỉ A-Level, tiêu chí phụ là điểm tuyệt đối môn Toán trong kỳ thi xét chứng chỉ A-Level (PUM range).
+
+c. Đối với phương thức tuyển sinh dựa trên kết quả các kỳ thi đánh giá năng lực  trong nước
+- Trường hợp tại ngưỡng điểm đánh giá hồ sơ xác định trúng tuyển của từng chương trình đào tạo, số thí sinh nhiều hơn số chỉ tiêu xét tuyển còn lại, Trường sử dụng tiêu chí phụ là kết quả điểm tuyệt đối của bài thi đánh giá năng lực .
+
+d. Đối với phương thức tuyển sinh dựa trên kết quả các kỳ thi đánh giá năng lực  quốc tế
+- Chứng chỉ A-Level : Trường hợp tại ngưỡng điểm đánh giá hồ sơ xác định trúng tuyển của từng chương trình đào tạo, số thí sinh nhiều hơn số chỉ tiêu xét tuyển còn lại, Trường sử dụng tiêu chí phụ là điểm tuyệt đối môn Toán trong kỳ thi xét chứng chỉ A-Level (PUM range).
+- Chứng chỉ SAT và ACT: Trường hợp tại ngưỡng điểm đánh giá hồ sơ xác định trúng tuyển của từng chương trình đào tạo, số thí sinh nhiều hơn số chỉ tiêu xét tuyển còn lại, Trường sử dụng tiêu chí phụ là điểm tuyệt đối của bài thi SAT và ACT.
+
+2. Bảng quy đổi các chứng chỉ quốc tế dành cho các phương thức xét tuyển riêng của Trường
+2.1. Bảng quy đổi chứng chỉ ngoại ngữ quốc tế và các giải HSG Quốc gia môn ngoại ngữ
+
+| Stt   | Chứng chỉ                                                               | Nội dung                                                                                                    | Mức quy đổi điểm chứng chỉ ngoại ngữ QT   | Mức quy đổi điểm chứng chỉ ngoại ngữ QT   | Mức quy đổi điểm chứng chỉ ngoại ngữ QT   | Mức quy đổi điểm chứng chỉ ngoại ngữ QT   |
+|-------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| Stt   | Chứng chỉ                                                               | Nội dung                                                                                                    | Mức điểm 8.5                              | Mức điểm 9.0                              | Mức điểm 9.5                              | Mức điểm 10                               |
+| 1     | IELTS                                                                   | Điểm IELTS                                                                                                  | 6.5                                       | 7                                         | 7.5                                       | Từ 8.0 đến 9.0                            |
+| 2     | TOEFL iBT Không chấp nhận chứng chỉ TOEFL iBT thi Online (Home Edition) | Điểm TOEFL iBT                                                                                              | Từ 79 đến 92                              | Từ 93 đến 101                             | Từ 102 đến 109                            | Từ 110 đến 120                            |
+| 3     | Cambridge English Scale                                                 | Điểm Cambridge English Scale                                                                                | Từ 180 đến 183                            | Từ 184 đến 191                            | Từ 192 đến 199                            | Từ 200 đến 230                            |
+| 4     | Năng lực tiếng Nhật JLPT                                                | Điểm Năng lực tiếng Nhật JLPT                                                                               |                                           | N3 (Từ 130 điểm trở lên)                  | N2                                        | N1                                        |
+| 5     | Kỳ thi du học Nhật Bản (EJU)                                            | Điểm bài thi môn tiếng Nhật (bao gồm điểm của các phân môn Nghe hiểu, Đọc hiểu, Nghe đọc hiểu và Viết luận) |                                           | Từ 220 đến 269                            | Từ 270 đến 319                            | Từ 320 đến 400                            |
+| 6     | Chứng chỉ tiếng Trung HSK                                               | Điểm Chứng chỉ tiếng Trung HSK                                                                              |                                           | HSK4 (Từ 280 điểm trở lên)                | HSK5                                      | HSK6                                      |
+| 7     | Bằng Tiếng Pháp                                                         | Bằng Tiếng Pháp                                                                                             |                                           | DELF-B2                                   | DALF C1                                   | DALF C2                                   |
+| 8     | Giải HSG quốc gia                                                       | Loại giải HSG quốc gia                                                                                      |                                           | Giải Ba                                   | Giải Nhì                                  | Giải Nhất                                 |
+
+2.2. Bảng quy đổi chứng chỉ quốc tế SAT hoặc ACT
+| Stt   | Điểm bài thi Chuẩn hóa năng lực quốc tế   | Điểm bài thi Chuẩn hóa năng lực quốc tế   | Quy đổi điểm bài thi Chuẩn hóa năng lực quốc tế theo thang điểm 20   |
+|-------|-------------------------------------------|-------------------------------------------|----------------------------------------------------------------------|
+| Stt   | ACT                                       | SAT                                       | Quy đổi điểm bài thi Chuẩn hóa năng lực quốc tế theo thang điểm 20   |
+| 1     | 27                                        | 1260-1290                                 | 17,00                                                                |
+| 2     | 28-29                                     | 1300-1350                                 | 17,50                                                                |
+| 3     | 30-31                                     | 1360-1410                                 | 18,00                                                                |
+| 4     | 32                                        | 1420-1440                                 | 18,50                                                                |
+| 5     | 33                                        | 1450-1480                                 | 19,00                                                                |
+| 6     | 34                                        | 1490-1520                                 | 19,50                                                                |
+| 7     | 35-36                                     | 1530-1600                                 | 20,00                                                                |
+
+2.3. Bảng quy đổi điểm trong chứng chỉ A-Level
+
+|   STT | Điểm trên chứng chỉ A-Level   | Điểm quy đổi theo thang 10   |
+|-------|-------------------------------|------------------------------|
+|     1 | A*                            | 10,00                        |
+|     2 | A                             | 8,50                         |
+|     3 | B                             | 8,00                         |
+|     4 | C                             | 7,50                         |
+|     5 | D                             | 7,00                         |
+|     6 | E                             | 6,50                         |

@@ -1,0 +1,99 @@
+Thông tin về tổ hợp xét tuyển THPT của các ngành học
+
+I. Trụ sở chính Hà Nội
+1) Ngành Luật
+1.1) LAWH2.1 - Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp: A00, A01, D01, D07
+1.2) LAWH1.1 - Chương trình tiêu chuẩn Luật thương mại quốc tế: A00, A01, D01, D07
+
+2) Ngành Kinh tế
+2.1) KTEH4.1 - Chương trình tiên tiến Kinh tế đối ngoại: A01, D01, D07
+2.2) KTEH2.1 - Chương trình CLC Kinh tế đối ngoại: A01, D01, D07
+2.3) KTEH1.1 - Chương trình tiêu chuẩn Kinh tế đối ngoại: A00, A01, D01, D02, D03, D04, D06, D07
+2.4) KTEH1.2 - Chương trình tiêu chuẩn Thương mại quốc tế: A00, A01, D01, D07
+
+3) Ngành Kinh tế quốc tế
+3.1) KTQH2.1 - Chương trình CLC Kinh tế quốc tế: A01, D01, D07
+3.2) KTQH1.1 - Chương trình tiêu chuẩn Kinh tế quốc tế: A00, A01, D01, D03, D07
+3.3) KTQH1.2 - Chương trình tiêu chuẩn Kinh tế và Phát triển quốc tế: A00, A01, D01, D03, D07
+
+4) Ngành Kinh doanh quốc tế
+4.1) KDQH4.1 - Chương trình tiên tiến i-Hons hợp tác với ĐH Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh: A01, D01, D07
+4.2) KDQH2.1 - Chương trình CLC Kinh doanh quốc tế: A01, D01, D07
+4.3) KDQH2.3 - Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản: A00, A01, D01, D06, D07
+4.4) KDQH2.2 - Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng: A00, A01, D01, D07
+4.5) KDQH2.4 - Chương trình ĐHNNQT Kinh doanh số: A00, A01, D01, D07
+4.6) KDQH1.1 - Chương trình tiêu chuẩn Kinh doanh quốc tế: A00, A01, D01, D07
+
+5) Ngành Quản trị kinh doanh
+5.1) QTKH4.1 - Chương trình tiên tiến Quản trị kinh doanh quốc tế: A01, D01, D07
+5.2) QTKH2.1 - Chương trình CLC Quản trị kinh doanh: A01, D01, D07
+5.3) QTKH1.1 - Chương trình tiêu chuẩn Quản trị kinh doanh: A00, A01, D01, D07
+
+6) Ngành Quản trị Khách sạn
+6.1) QKSH2.1 - Chương trình ĐHNNQT Quản trị khách sạn: A00, A01, D01, D07
+
+7) Ngành Marketing
+7.1) MKTH2.1 - Chương trình ĐHNNQT Marketing số: A00, A01, D01, D07
+
+8) Ngành Tài chính - Ngân hàng
+8.1) TCHH4.1 - Chương trình tiên tiến Tài chính - Ngân hàng: A01, D01, D07
+8.2) TCHH2.1 - Chương trình CLC Ngân hàng và Tài chính quốc tế: A01, D01, D07
+8.3) TCHH1.1 - Chương trình tiêu chuẩn Tài chính quốc tế: A00, A01, D01, D07
+8.4) TCHH1.2 - Chương trình tiêu chuẩn Ngân hàng: A00, A01, D01, D07
+8.5) TCHH1.3 - Chương trình tiêu chuẩn Phân tích và đầu tư tài chính: A00, A01, D01, D07
+
+9) Ngành Kế toán
+9.1) KTKH2.1 - Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA: A00, A01, D01, D07
+9.2) KTKH1.1 - Chương trình tiêu chuẩn Kế toán - Kiểm toán: A00, A01, D01, D07
+
+10) Ngành Ngôn ngữ Anh
+10.1) NNAH2.1 - Chương trình CLC Tiếng Anh Thương mại: D01 (Tiếng Anh nhân đôi)
+10.2) NNAH1.1 - Chương trình tiêu chuẩn Tiếng Anh Thương mại: D01 (Tiếng Anh nhân đôi)
+
+11) Ngành Ngôn ngữ Pháp
+11.1) NNPH2.1 - Chương trình CLC Tiếng Pháp thương mại: D03 (Tiếng Pháp nhân đôi)
+11.2) NNPH1.1 - Chương trình tiêu chuẩn Tiếng Pháp thương mại: D01, D03 (Tiếng Pháp, Tiếng Anh nhân đôi)
+
+12) Ngành Ngôn ngữ Trung Quốc
+12.1) NNTH2.1 - Chương trình CLC Tiếng Trung thương mại: D04 (Tiếng Trung nhân đôi)
+12.2) NNTH1.1 - Chương trình tiêu chuẩn Tiếng Trung thương mại: D01, D04 (Tiếng Trung, Tiếng Anh nhân đôi)
+
+13) Ngành Ngôn ngữ Nhật
+13.1) NNNH2.1 - Chương trình CLC Tiếng Nhật thương mại: D06 (Tiếng Nhật nhân đôi)
+13.2) NNNH1.1 - Chương trình tiêu chuẩn Tiếng Nhật thương mại: D01, D06 (Tiếng Nhật, Tiếng Anh nhân đôi)
+
+14) Ngành Kinh tế chính trị
+14.1) KTCH2.1 - Chương trình ĐHPTQT Kinh tế chính trị quốc tế: A00, A01, D01, D07
+
+15) Ngành Khoa học máy tính
+15.1) KHMH2.1 - Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh: A00, A01, D01, D07 (Toán nhân đôi)
+
+II. Cơ sở TP. Hồ Chí Minh
+1) Ngành Kinh tế
+1.1) KTES2.1 - Chương trình CLC Kinh tế đối ngoại: A01, D01, D07
+1.2) KTES1.1 - Chương trình tiêu chuẩn Kinh tế đối ngoại: A00, A01, D01, D07
+
+2) Ngành Quản trị kinh doanh
+2.1) QTKS2.1 - Chương trình CLC Quản trị kinh doanh: A01, D01, D07
+2.2) QTKS1.1 - Chương trình tiêu chuẩn Quản trị kinh doanh: A00, A01, D01, D07
+
+3) Ngành Tài chính - Ngân hàng
+3.1) TCHS2.1 - Chương trình CLC Ngân hàng và Tài chính quốc tế: A01, D01, D07
+3.2) TCHS1.1 - Chương trình tiêu chuẩn Tài chính quốc tế: A00, A01, D01, D07
+
+4) Ngành Kế toán
+4.1) KTKS1.1 - Chương trình tiêu chuẩn Kế toán - Kiểm toán: A00, A01, D01, D07
+
+5) Ngành Kinh doanh quốc tế
+5.1) KDQS2.1 - Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng: A00, A01, D01, D07
+
+6) Ngành Marketing
+6.1) MKTS2.1 - Chương trình ĐHNNQT Truyền thông Marketing tích hợp: A00, A01, D01, D07
+
+III. Cơ sở Quảng Ninh
+
+1) Ngành Kinh doanh quốc tế
+1.1) KDQQ1.1 - Chương trình tiêu chuẩn Kinh doanh quốc tế: A00, A01, D01, D07
+
+2) Ngành Kế toán
+2.1) KTKQ1.1 - Chương trình tiêu chuẩn Kế toán - Kiểm toán: A00, A01, D01, D07

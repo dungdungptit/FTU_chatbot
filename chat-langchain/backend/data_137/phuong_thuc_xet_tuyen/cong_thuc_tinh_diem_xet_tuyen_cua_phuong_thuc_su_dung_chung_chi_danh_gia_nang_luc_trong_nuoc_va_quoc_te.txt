@@ -1,0 +1,27 @@
+Thông tin về công thức tính điểm xét tuyển của phương thức sử dụng chứng chỉ đánh giá năng lực trong nước và quốc tế
+
+1) Nhóm đối tượng tuyển sinh sử dụng kết quả thi đánh giá năng lực trong nước
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+Điểm ĐGNL của thí sinh được quy đổi về thang 30 theo công thức:
+- Điểm quy đổi về thang 30 của ĐGNL ĐHQG HN = 27 + (Điểm ĐGNL của thí sinh - 100)*3/50 
+- Điểm quy đổi về thang 40 của ĐGNL ĐHQG HN =( 27 + (Điểm ĐGNL của thí sinh - 100)*3/50)*4/3
+- Điểm quy đổi về thang 30 của ĐGNL ĐHQG TP.HCM =  27 + (Điểm ĐGNL của thí sinh - 850)*3/350
+Điểm xét tuyển được tính theo công thức:
+	Điểm xét tuyển = Điểm quy đổi + Điểm ưu tiên theo khu vực và đối tượng chính sách (nếu có)+ điểm ưu tiên xét tuyển (nếu có)
+
+2) Nhóm đối tượng tuyển sinh sử dụng kết quả thi đánh giá năng lực quốc tế
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình CTTT,CLC và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Điểm xét tuyển SAT/ACT = M1 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+	Điểm xét tuyển A-Level = MA1 + M2+ M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+* Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (thang điểm 40)
+	Điểm xét tuyển SAT/ACT = M1*3/2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+	Điểm xét tuyển A-Level = MA1*2 + M2+ M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+- Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Điểm xét tuyển SAT/ACT = M1*3/2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+	Điểm xét tuyển A-Level = MA1 + M2+ M3*2 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên xét tuyển (nếu có)
+Ghi chú:
+- M1: là điểm quy đổi kết quả chứng chỉ SAT, chứng chỉ ACT ( thang 20 điểm) 
+- MA1: là  điểm môn Toán (Mathematics) trong chứng chỉ A –Level (thang 10 điểm);
+- M2: là điểm quy đổi kết quả điểm môn bất kỳ khác môn Toán (Mathematics) trong chứng chỉ A-Level nếu thí sinh sử dụng chứng chỉ A-level để xét tuyển
+

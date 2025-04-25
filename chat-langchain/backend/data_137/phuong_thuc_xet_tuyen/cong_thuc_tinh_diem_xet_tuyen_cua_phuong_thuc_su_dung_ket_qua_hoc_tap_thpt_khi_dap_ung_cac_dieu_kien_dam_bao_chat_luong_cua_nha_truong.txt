@@ -1,0 +1,43 @@
+Thông tin về công thức tính điểm xét tuyển của phương thức sử dụng kết quả học tập THPT khi đáp ứng các điều kiện đảm bảo chất lượng của nhà trường
+
+1) Nhóm đối tượng tuyển sinh xét tuyển bằng kết quả học tập THPT  ( xét tuyển kết quả học tập THPT của ba môn trong tổ hợp môn của Nhà trường)
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau:
+- Đối với các chương trình tiêu chuẩn và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+Trong đó:
+- M1, M2, M3: là điểm trung bình chung kết quả học tập THPT từng môn (6 học kỳ) thuộc tổ hợp môn xét tuyển của Trường.
+	+Riêng đối với nhóm đối tượng tuyển sinh: thí sinh là học sinh tham gia/đạt giải HSG Quốc gia/KHKT quốc gia hoặc thí sinh là học sinh không chuyên đạt giải  HSG Tỉnh/Thành phố: trong tổ hợp 03 môn xét tuyển phải có môn thí sinh tham gia thi/đạt giải
+	+ Thí sinh chỉ sử dụng môn ngoại ngữ chính (môn bắt buộc hoặc môn chuyên) để xét tuyển. Môn ngoại ngữ thứ hai (môn tự chọn hoặc không chuyên) không được dùng để xét tuyển theo các tổ hợp của Trường.
+- Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Công thức tính điểm xét tuyển = (M1*2+M2+M3) + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+Trong đó:
+- M1 là điểm trung bình chung kết quả học tập THPT môn Toán (6 học kỳ)
+- M2, M3: là điểm trung bình chung kết quả học tập THPT (6 học kỳ) của hai môn trong nhóm: Hóa học + Vật Lý hoặc Hóa học +Tiếng Anh hoặc Vật lý+Tiếng Anh hoặc Văn+ Tiếng Anh
+	+ Riêng đối với nhóm đối tượng tuyển sinh: thí sinh là học sinh tham gia/đạt giải HSG Quốc gia/KHKT quốc gia hoặc thí sinh là học sinh không chuyên đạt giải  HSG Tỉnh/Thành phố: trong tổ hợp 03 môn xét tuyển phải có môn thí sinh tham gia thi/đạt giải
+
+	+ Thí sinh chỉ sử dụng môn ngoại ngữ chính (môn bắt buộc hoặc môn chuyên) để xét tuyển. Môn ngoại ngữ thứ hai (môn tự chọn hoặc không chuyên) không được dùng để xét tuyển theo các tổ hợp của Trường.
+- Đối với các chương trình tiêu chuẩn ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+Công thức tính điểm xét tuyển = (M1+M2+M3*2) + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+- M1,M2: là điểm trung bình chung kết quả học tập THPT (6 học kỳ) của  môn Toán và môn Văn 
+- M3: là điểm trung bình chung kết quả học tập THPT (6 học kỳ) môn Ngoại ngữ (Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Nhật hoặc Tiếng Nga hoặcTiếng Trung)
+	+ Riêng đối với nhóm đối tượng tuyển sinh: thí sinh là học sinh tham gia/đạt giải HSG Quốc gia/KHKT quốc gia hoặc thí sinh là học sinh không chuyên đạt giải  HSG Tỉnh/Thành phố: trong tổ hợp 03 môn xét tuyển phải có môn thí sinh tham gia thi/đạt giải
+	+ Thí sinh chỉ sử dụng môn ngoại ngữ chính (môn bắt buộc hoặc môn chuyên) để xét tuyển. Môn ngoại ngữ thứ hai (môn tự chọn hoặc không chuyên) không được dùng để xét tuyển theo các tổ hợp của Trường.
+
+1) Nhóm đối tượng tuyển sinh xét tuyển kết hợp giữa kết quả học tập THPT và chứng chỉ ngoại ngữ quốc tế
+* Căn cứ đánh giá hồ sơ: Xác định hồ sơ đủ điều kiện dựa trên nguyện vọng đăng ký, chỉ tiêu và điểm xét tuyển. Điểm xét tuyển được xác định theo thang điểm 30 hoặc 40 và làm tròn đến hai chữ số thập phân. Cụ thể như sau: 
+- Đối với các chương trình CTTT,CLC và ĐHNN&PTQT (trừ chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh và các chương trình ngoại ngữ thương mại): 
+	Công thức tính điểm xét tuyển = M1 + M2 + M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) + Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+Trong đó:
+- M1 là điểm trung bình chung kết quả học tập THPT môn Toán (6 học kỳ)
+- M2 là điểm trung bình chung kết quả học tập THPT một trong các môn (6 học kỳ) : môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;
+- Đối với Chương trình Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh (Môn Toán nhân hệ số 2)
+	Công thức tính điểm xét tuyển = M1*2+M2+M3 + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+	Trong đó:
+- M1 là điểm trung bình chung kết quả học tập THPT môn Toán (6 học kỳ)
+- M2 là điểm trung bình chung kết quả học tập THPT một trong các môn (6 học kỳ) : môn Vật lý hoặc Hóa học hoặc Ngữ văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh 
+- Đối với các chương trình CLC ngoại ngữ thương mại ( Môn ngoại ngữ hệ số 2): 
+	Công thức tính điểm xét tuyển = M1+M2+M3*) + Điểm ưu tiên theo đối tượng chính sách và khu vực (nếu có) +  Điểm ưu tiên giải (chỉ dành cho nhóm đối tượng HSG quốc gia hoặc giải KHKT) 
+- M1,M2 là điểm trung bình chung kết quả học tập THPT (6 học kỳ) của  môn Toán và môn Văn
+- M3 là điểm quy đổi Chứng chỉ Ngoại ngữ quốc tế hoặc quy đổi giải học sinh giỏi quốc gia môn Tiếng Anh hoặc Tiếng Pháp hoặc Tiếng Trung hoặc Tiếng Nga hoặc Tiếng Nhật;

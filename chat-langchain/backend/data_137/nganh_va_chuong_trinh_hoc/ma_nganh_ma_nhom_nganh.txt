@@ -1,0 +1,80 @@
+Mã ngành, mã nhóm ngành
+-TTrụ sở chính Hà nội
+1. Ngành Kinh tế : 7310101
+ 1.1. Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp: LAWH2.1
+ 1.2. Chương trình tiêu chuẩn Luật thương mại quốc tế: LAWH1.1
+2. Ngành Quản trị kinh doanh: 7340101
+ 2.1. Chương trình tiên tiến Quản trị kinh doanh quốc tế: QTKH4.1
+ 2.2. Chương trình CLC Quản trị kinh doanh: QTKH2.1
+ 2.3. Chương trình tiêu chuẩn Quản trị kinh doanh: QTKH1.1
+3. Ngành Marketing: 7340115
+ 3.1. Chương trình ĐHNNQT Marketing số: MKTH2.1
+4. Ngành Kinh tế quốc tế: 7310106
+ 4.1. Chương trình CLC Kinh tế quốc tế: KTQH2.1
+ 4.2. Chương trình tiêu chuẩn Kinh tế quốc tế: KTQH2
+5. Ngành Kinh doanh quốc Tế: 7340120
+ 5.1. Chương trình tiên tiến i-Hons hợp tác với Đại học Queensland về Kinh doanh quốc tế và Phân tích dữ liệu kinh doanh: KDQH4.1
+ 5.2. Chương trình CLC Kinh doanh quốc tế: KDQH2.1
+ 5.3. Chương trình ĐHNNQT Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản: KDQH2.3
+ 5.4. Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng: KDQH2.2
+ 5.5. Chương trình ĐHNNQT Kinh doanh số: KDQH2.4
+ 5.6. Chương trình tiêu chuẩn Kinh doanh quốc tế: KDQH1.1
+6. Ngành Tài chính - Ngân hàng: 7340201
+ 6.1 Chương trình tiên tiến Tài chính - Ngân hàng: TCHH4.1
+ 6.2 Chương trình CLC Ngân hàng và Tài chính quốc tế: TCHH2.1
+ 6.3 Chương trình tiêu chuẩn Tài chính quốc tế: TCHH1.1
+ 6.4 Chương trình tiêu chuẩn Ngân hàng: TCHH1.2
+ 6.5 Chương trình tiêu chuẩn Phân tích và đầu tư tài chính: TCHH1.3
+7. Ngành Ngôn ngữ Anh: 7220201
+ 7.1. Chương trình CLC Tiếng Anh Thương mại: NNAH2.1
+ 7.2. Chương trình tiêu chuẩn Tiếng Anh Thương mại: NNAH1.1
+8. Ngành ngôn ngữ Pháp: 7220203
+ 8.1. Chương trình CLC Tiếng Pháp thương mại: NNPH2.1
+ 8.2. Chương trình tiêu chuẩn Tiếng Pháp thương mại: NNPH1.1
+9. Ngành Ngôn ngữ Trung: 7220204
+ 9.1. Chương trình CLC Tiếng Trung thương mại: NNT H2.1
+ 9.2. Chương trình tiêu chuẩn Tiếng Trung thương mại: NNTH1.1
+10. Ngành ngôn ngữ Nhật: 7220209
+ 10.1. Chương trình CLC Tiếng Nhật thương mại: NNNH2.1
+ 10.2. Chương trình tiêu chuẩn Tiếng Nhật thương mại: NNNH1.1
+11. Ngành Kế toán: 7340301
+ 11.1 Chương trình ĐHNNQT Kế toán - Kiểm toán theo định hướng ACCA: KTKH2.1
+ 11.2 Chương trình tiêu chuẩn Kế toán - Kiểm toán: KTKH1.1
+12. Ngành Luật: 7380101
+ 12.1 Chương trình ĐHNNQT Luật Kinh doanh quốc tế theo mô hình thực hành nghề nghiệp: LAWH2.1
+ 12.2 Chương trình tiêu chuẩn Luật thương mại quốc tế: LAWH1.1
+13. Ngành Quản trị khách sạn: 7810201
+ 13.1 Chương trình ĐHNNQT Quản trị khách sạn: QKSH2.1
+14. Ngành kinh tế chính trị: 7310102
+ 14.1 Chương trình ĐHNNQT Kinh tế chính trị quốc tế: KTCH2.1
+15. Ngành khoa học máy tính: 7480101
+ 15.1 Chương trình ĐHNNQT Khoa học máy tính và dữ liệu trong kinh tế và kinh doanh: KHMT2.1
+ 
+- Cơ sở II-TP. Hồ Chí Minh
+1. Ngành Kinh tế: 7310101
+ 1.1 Chương trình CLC Kinh tế đối ngoại - KTES2.1
+ 1.2 Chương trình tiêu chuẩn Kinh tế đối ngoại - KTES1.1
+2. Ngành Quản trị kinh doanh: 7340101
+ 2.1 Chương trình CLC Quản trị kinh doanh - QTKS2.1
+ 2.2 Chương trình tiêu chuẩn Quản trị kinh doanh - QTKS1.1
+3. Ngành Tài chính - Ngân hàng: 7340201
+ 3.1 Chương trình CLC Ngân hàng và Tài chính quốc tế - TCHS2.1
+ 3.2 Chương trình tiêu chuẩn Tài chính quốc tế - TCHS1.1
+4. Ngành Kế toán: 7340301
+ 4.1 Chương trình tiêu chuẩn Kế toán - Kiểm toán - KTKS1.1
+5. Ngành Kinh doanh quốc tế: 7340120
+ 5.1 Chương trình ĐHNNQT Logistics và Quản lý chuỗi cung ứng: KDQS2.1
+6. Ngành Marketing: 7340115
+ 6.1 Chương trình ĐHNNQT Truyền thông Marketing tích hợp: MKTS2.1
+
+- Cơ sở Quảng Ninh
+1. Ngành Kinh doanh quốc tế
+ 1.1.Chương trình tiêu chuẩn Kinh doanh quốc tế: KDQQ1.1
+2. Ngành Kế toán
+ 2.1. Chương trình tiêu chuẩn Kế toán - Kiểm toán: KTKQ1.1
+
+
+
+
+
+
